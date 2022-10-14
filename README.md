@@ -1,1 +1,1 @@
-# danilaabramov-optimization-methods-1-2
+# optimization-methods-1-2
